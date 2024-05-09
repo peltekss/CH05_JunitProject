@@ -22,7 +22,7 @@ public class C02_Junit {
 
     }
 
-    @Test
+    @Test//Junit'te bir class içindeki methodlar alfebetik sıra ile çalışır.
     public void test02(){
 
         System.out.println("Test 02");
