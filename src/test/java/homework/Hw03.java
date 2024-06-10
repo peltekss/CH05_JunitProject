@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static org.junit.Assert.*;
 
-public class Day03 {
+public class Hw03 {
     /*
     Go to Clarusway homepage
     Do the following tasks by creating 3 different test methods.

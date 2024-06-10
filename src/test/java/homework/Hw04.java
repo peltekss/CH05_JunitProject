@@ -1,6 +1,6 @@
 package homework;
 
-public class Day04 {
+public class Hw04 {
 /*
      Create chrome driver object by using @Before annotation
      Navigate to  https://testpages.herokuapp.com/styled/index.html
